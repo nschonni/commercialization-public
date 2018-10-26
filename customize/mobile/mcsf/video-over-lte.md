@@ -92,7 +92,7 @@ This customization supports: **per-IMSI** value
           <Setting Name="DefaultEnableVideoCapability" Value="" />   
           <Setting Name="ShowVideoCapabilitySwitch" Value="" />  
           <Setting Name="AllowVideoConferencing" Value="" />  
-          <Setting Name="SupressVideoCallingChargesDialog" Value="" />  
+          <Setting Name="SuppressVideoCallingChargesDialog" Value="" />  
         </Settings>  
 
         <Settings Path="Phone/PhoneSettings">  
@@ -294,7 +294,7 @@ This customization supports: **per-IMSI** value
 
      
 
-11. To show or hide the video charges dialog that is displayed when the user turns on the LTE video calling switch, set `SupressVideoCallingChargesDialog` to one of the following values:
+11. To show or hide the video charges dialog that is displayed when the user turns on the LTE video calling switch, set `SuppressVideoCallingChargesDialog` to one of the following values:
 
     <table>
     <colgroup>
